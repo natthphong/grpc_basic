@@ -1,0 +1,1 @@
+protoc  test.proto --go_out=../client
